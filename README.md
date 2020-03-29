@@ -29,6 +29,13 @@ Reactive programming and reactive architectures are trend topics nowadays. Machi
 - Less efficient code since it does not have loops (use recursion, instead)
 - Harder to understand depending on the solution (function as arguments, for instance)
 
+## Mathematical Representation
+
+- `Input x -> Function X -> Output f(x)` 
+
+A function X receives its arguments and generates the output f(x). The arguments and output also be functions. There is no variable. Everything is constant.
+
+
 ## Languages and Frameworks
 
 - Js (ReactiveX)
